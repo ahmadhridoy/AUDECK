@@ -165,27 +165,6 @@ jQuery(function ($) {
 		j.preventDefault();
 	});
 
-	// Timer JS
-	let getDaysId = document.getElementById('days');
-	if(getDaysId !== null){
-		
-		const second = 1000;
-		const minute = second * 60;
-		const hour = minute * 60;
-		const day = hour * 24;
-
-		let countDown = new Date('July 30, 2021 00:00:00').getTime();
-		setInterval(function() {
-			let now = new Date().getTime();
-			let distance = countDown - now;
-
-			document.getElementById('days').innerText = Math.floor(distance / (day)),
-			document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
-			document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
-			document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
-		}, second);
-	};
-
 	// Preloader JS
 	jQuery(window).on('load',function(){
 		jQuery(".loader").fadeOut(500);
