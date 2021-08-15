@@ -22,7 +22,6 @@ This files table contents are outlined below>>>>>
 ** - Sign Up CSS
 ** - Sign In CSS
 ** - FAQ CSS
-** - Coming Soon CSS
 ** - Terms & Conditions CSS
 ** - Contact CSS
 ** - Preloader CSS
@@ -3614,81 +3613,7 @@ footer .footer-img {
 }
 
 /*----- End FAQ CSS -----*/
-/*----- Coming Soon CSS -----*/
-.coming-item {
-  height: 100vh;
-  text-align: center;
-}
 
-.coming-item h1 {
-  font-size: 75px;
-  font-weight: 700;
-  font-style: italic;
-  margin-bottom: 20px;
-}
-
-.coming-item p {
-  margin-bottom: 40px;
-  max-width: 865px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.coming-item .coming-wrap {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 30px;
-}
-
-.coming-item .coming-wrap .coming-inner {
-  text-align: center;
-  background-color: #efefef;
-  padding-top: 15px;
-  padding-bottom: 12px;
-  margin-bottom: 30px;
-}
-
-.coming-item .coming-wrap .coming-inner h3 {
-  font-size: 40px;
-  font-weight: 600;
-  color: #232323;
-  margin-bottom: 5px;
-}
-
-.coming-item .coming-wrap .coming-inner p {
-  font-size: 16px;
-  margin-bottom: 0;
-}
-
-.coming-item ul {
-  margin: 0;
-  padding: 0;
-}
-
-.coming-item ul li {
-  list-style-type: none;
-  display: inline-block;
-  margin-right: 2px;
-  margin-left: 2px;
-}
-
-.coming-item ul li a {
-  display: block;
-  color: #ffffff;
-  background-color: #fdb819;
-  width: 35px;
-  height: 35px;
-  line-height: 39px;
-  border-radius: 50%;
-  font-size: 16px;
-}
-
-.coming-item ul li a:hover {
-  background-color: #333333;
-}
-
-/*----- End Coming Soon CSS -----*/
 /*----- Terms & Conditions CSS -----*/
 .privacy-area {
   padding-bottom: 50px;

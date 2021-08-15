@@ -761,29 +761,7 @@
     padding: 15px 25px 15px 18px;
   }
   /*----- End FAQ CSS -----*/
-  /*----- Coming Soon CSS -----*/
-  .coming-item h1 {
-    font-size: 35px;
-    margin-bottom: 18px;
-  }
-  .coming-item p {
-    margin-bottom: 25px;
-  }
-  .coming-item .coming-wrap {
-    margin-bottom: 0;
-  }
-  .coming-item .coming-wrap .coming-inner {
-    padding-top: 10px;
-    padding-bottom: 8px;
-  }
-  .coming-item .coming-wrap .coming-inner h3 {
-    font-size: 30px;
-    margin-bottom: 0;
-  }
-  .coming-item .coming-wrap .coming-inner p {
-    font-size: 14px;
-  }
-  /*----- End Coming Soon CSS -----*/
+  
   /*----- Terms & Conditions CSS -----*/
   .privacy-area {
     padding-bottom: 0;
@@ -1434,29 +1412,7 @@
     font-size: 28px;
   }
   /*----- End Checkout CSS -----*/
-  /*----- Coming Soon CSS -----*/
-  .coming-item h1 {
-    font-size: 35px;
-    margin-bottom: 18px;
-  }
-  .coming-item p {
-    margin-bottom: 25px;
-  }
-  .coming-item .coming-wrap {
-    margin-bottom: 0;
-  }
-  .coming-item .coming-wrap .coming-inner {
-    padding-top: 10px;
-    padding-bottom: 8px;
-  }
-  .coming-item .coming-wrap .coming-inner h3 {
-    font-size: 30px;
-    margin-bottom: 0;
-  }
-  .coming-item .coming-wrap .coming-inner p {
-    font-size: 14px;
-  }
-  /*----- End Coming Soon CSS -----*/
+  
   /*----- Terms & Conditions CSS -----*/
   .privacy-area {
     padding-bottom: 20px;
